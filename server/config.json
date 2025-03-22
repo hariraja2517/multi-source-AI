@@ -1,0 +1,1 @@
+{"database":{"intents":[{"tag":"greeting","patterns":["hii","hey"],"responses":["hey:-)","hi there,..."]},{"tag":"goodbye","patterns":["bye"],"responses":["see you"]},{"tag":"test","patterns":["what is your name "," ur name "],"responses":["my name is r"]}]}}
